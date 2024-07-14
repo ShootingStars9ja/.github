@@ -11,8 +11,7 @@ Shooting Stars9ja is a dynamic data science and machine learning group. Our team
 
 
 ## A Sample of Our Projects
-### <a href="[https://hammerhead-app-4gqe5.ondigitalocean.app/](https://colab.research.google.com/drive/1dAbDel7NuixnpsTTssxKP6fkyB2QAu_T#scrollTo=v2r5fRYJVb5T)">STOCK MARKET ANALYSIS GROUP</a>
-
+### <a href="https://colab.research.google.com/drive/1dAbDel7NuixnpsTTssxKP6fkyB2QAu_T#scrollTo=v2r5fRYJVb5T">STOCK MARKET ANALYSIS GROUP</a>
 ![predi](https://github.com/user-attachments/assets/8ecc2294-21ba-49e2-ac7a-727dba1d76fc)
 ![pred](https://github.com/user-attachments/assets/4cce1f45-8148-4e2d-a19a-90ca66f0eb6f)
 
